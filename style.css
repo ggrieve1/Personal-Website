@@ -1,0 +1,170 @@
+
+
+.top-container {
+    background-color: #154360;
+    width: 100%;
+}
+img {
+    display: block;
+    margin: auto;
+}
+
+.paragraphs {
+    background-color: #ecf0f1;
+}
+
+#scrollspyHeading1 {
+    color: #2980b9;
+
+}
+
+#scrollspyHeading2, #scrollspyHeading3, #scrollspyHeading4, #scrollspyHeading5, #scrollspyHeading1 {
+    display: block;
+    padding: 30px;
+    color: #2980b9;
+    text-align: center;
+    padding-top: 8dvh;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+
+}
+
+.greg-grieve {
+    border-radius: 50%;
+}
+
+.resume {
+    text-align: left;
+}
+
+ul {
+    list-style: none;
+    position: relative;
+    right: 1.75rem;
+}
+
+ol {
+    list-style: none;
+}
+
+.projects {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-body {
+    background-color: whitesmoke;
+
+}
+
+#resume-btn {
+    background-color: #154360;
+    border-color: white;
+}
+
+.about-me {
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.about-me-title {
+    text-decoration: underline;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.contact {
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.chat {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.contact > h5 > ul {
+    font-size: smaller;
+    padding-bottom: 25px;
+}
+
+.resume-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 3dvw;
+}
+
+.resume2 {
+    text-align: right;
+    flex-basis: 300dvh;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.job-position {
+    text-decoration: underline;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.img {
+    border-radius: 50%;
+}
+
+footer {
+    padding-left: 1dvw;
+}
+
+.card-title {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+.text-body-emphasis {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.intro {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.resume {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.rtitle {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.card-text {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
